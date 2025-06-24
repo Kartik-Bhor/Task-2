@@ -5,7 +5,7 @@
 Below are some examples of actual phishing and scam emails, in which the most common or key markers of 
 phishing emails are indicated.
 
-*Example Spam/Phishing Email Message #1* 
+*Example Phishing Email Message #1* 
 
 1. UVA will never send a message like this. Even if you were to ask UVA to delete your account 
 (highly unlikely).
@@ -20,7 +20,7 @@ the hyperlink text says it will "CANCEL REQUEST IMMEDIATELY", but when you hover
 see that the actual URL takes you away from servers. Clicking this link would make your information and 
 data available to hackers.
 
-*Example Spam/Phishing Email Message #2*
+*Example Phishing Email Message #2*
 
 1. hackers sometimes become aware of legitimate email campaigns and recreate legitimate language. 
 For this reason, it is very important to always read the entire message to ensure its validity.
