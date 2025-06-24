@@ -15,7 +15,7 @@ words "your account will be lost". A tone of urgency and an implied or veiled th
 not act will generate fear, a key tactic phishers use to deceive us, and to push us to act without 
 thinking.
 
-3.Hover over any included links (i.e. hypertext, graphics, buttons) before clicking them. As seen above, 
+3. Hover over any included links (i.e. hypertext, graphics, buttons) before clicking them. As seen above, 
 the hyperlink text says it will "CANCEL REQUEST IMMEDIATELY", but when you hover over the link, you 
 see that the actual URL takes you away from servers. Clicking this link would make your information and 
 data available to hackers.
